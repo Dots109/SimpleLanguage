@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GIJ2B6a6JWcSrrN8LGndyTHZ/YdivBmF7D0v9ePr4x9qSbXIm1jvNfMnnA4jcCog7jGVdMvGfLKTywV9vS8Mig==",
+  "success": true,
+  "projectFilePath": "/home/aleksandr/SimpleLanguage/SimpleLanguage.fsproj",
+  "expectedPackageFiles": [
+    "/home/aleksandr/.nuget/packages/fsharp.core/8.0.102/fsharp.core.8.0.102.nupkg.sha512",
+    "/home/aleksandr/.nuget/packages/fslexyacc/10.2.0/fslexyacc.10.2.0.nupkg.sha512",
+    "/home/aleksandr/.nuget/packages/fslexyacc.runtime/10.2.0/fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
